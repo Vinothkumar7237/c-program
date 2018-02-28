@@ -3,11 +3,11 @@
 #include<ctype.h>
 int main(void) 
 {
-int len,digit=0;
+int a,digit=0;
 char str[10];
 scanf("%s",str);
-len=strlen(str);
-for(int i=0;i<len;i++)
+a=strlen(str);
+for(int i=0;i<a;i++)
 {
 if(isdigit(str[i]))
 digit=0;
