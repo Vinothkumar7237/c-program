@@ -14,4 +14,5 @@ void main()
             count++;    
     }
     printf("number of words in given string are: %d\n", count + 1);
+ \\jhfgfgucuvchkg;
 }
